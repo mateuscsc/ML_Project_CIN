@@ -20,7 +20,8 @@
  - [1] https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
 
 # Libs
- - [1] https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.windows.parzen.html?highlight=parzen#scipy.signal.windows.parzen
+ - [1] https://scikit-learn.org/stable/index.html
+ - [2] https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.windows.parzen.html?highlight=parzen#scipy.signal.windows.parzen
 
 # Theory
  - [1] https://encyclopediaofmath.org/wiki/Lojasiewicz_inequality
