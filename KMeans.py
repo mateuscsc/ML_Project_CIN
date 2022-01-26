@@ -1,5 +1,6 @@
 import sys
 import pandas as pd
+import numpy as np
 import skfuzzy as fuzz
 from sklearn.metrics import adjusted_rand_score
 from metrics.f_measure import FMeasure
@@ -8,6 +9,9 @@ from metrics.modified_partition_coefficient import MPC
 
 def main():
     df = pd.read_table('segmentation.data', skiprows=3, index_col=False, sep=",")
+    df_test = pd.read_table('segmentation.test', skiprows=3, index_col=False, sep=",")
+
+    df = pd.concat([df, df_test])
 
     dataset1 = df.iloc[:,3:9].to_numpy()        # Shape
     dataset2 = df.iloc[:,9:19].to_numpy()       # RGB
