@@ -1,0 +1,4 @@
+Dataset: dataset_02_scaled 
+ Best_loss:1302.11
+ Best_T_u: 25.0
+ Best_T_v: 12.0

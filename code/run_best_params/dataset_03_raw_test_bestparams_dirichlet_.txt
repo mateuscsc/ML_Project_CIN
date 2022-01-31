@@ -1,0 +1,4 @@
+Dataset: dataset_03_raw_test 
+ Best_loss:395.53
+ Best_T_u: 5
+ Best_T_v: 10.0
