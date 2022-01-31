@@ -1,0 +1,4 @@
+Dataset: dataset_01_scaled 
+ Best_loss:297.43
+ Best_T_u: 18.7
+ Best_T_v: 11.0
