@@ -1,0 +1,40 @@
+Dataset: dataset_01_scaled 
+ Best_loss:299.60
+ Best_T_u: 10.6
+ Best_T_v: 12.0
+Dataset: dataset_01_scaled 
+ Best_loss:303.99
+ Best_T_u: 8.6
+ Best_T_v: 14.0
+Dataset: dataset_01_scaled 
+ Best_loss:299.60
+ Best_T_u: 1.7
+ Best_T_v: 12.0
+Dataset: dataset_01_scaled 
+ Best_loss:311.00
+ Best_T_u: 4.1
+ Best_T_v: 17.0
+Dataset: dataset_01_scaled 
+ Best_loss:295.29
+ Best_T_u: 2.3
+ Best_T_v: 10
+Dataset: dataset_01_scaled 
+ Best_loss:295.24
+ Best_T_u: 1.1
+ Best_T_v: 10
+Dataset: dataset_01_scaled 
+ Best_loss:295.29
+ Best_T_u: 4.3
+ Best_T_v: 10
+Dataset: dataset_01_scaled 
+ Best_loss:302.16
+ Best_T_u: 1.9
+ Best_T_v: 10
+Dataset: dataset_01_scaled 
+ Best_loss:443.48
+ Best_T_u: 4.5
+ Best_T_v: 10
+Dataset: dataset_01_scaled 
+ Best_loss:-295.29
+ Best_T_u: 4.3
+ Best_T_v: 10
